@@ -22,6 +22,8 @@ This lab can be used to practice:
 * XSS
 * Networking and so on
 
+---
+
 ## 🖥️Lab Configuration
 
 |  Component | Configuration |
@@ -127,6 +129,8 @@ Open the Machine (kali Linux), the default Username and Password is kali. User i
 
 https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
 
+---
+
 ## Used Commands in terminal:
 * ifconfig
 * sudo ifconfig eth0 down
@@ -146,16 +150,39 @@ After the procedures, a VirtualBox snapshot was created.
 
 ---
 
+## 💡 What I Learned
+Through this project I learned how to create and configure a Virtual machine.
+Some of the key point is given here:
+## 1. NAT VS NAT Network:
+* Provides internet access to each virtual machine individually, but isolates the VMs so they   cannot communicate with each other.
+* Creates a shared virtual network where all connected VMs can access the internet and communicate with each other directly
+* NAT Network is preferred for penetration testing, as it allows your Attacker VM (like Kali) to easily reach and target other VMs within the same isolated environment.
+
+## 2. How to use commands in Terminal and Ping:
+* The commands ifconfig, sudo, eth0 down, up, and ping, these commands are used to check whether the system is working well, networking and testing if the host is reachable across a network.
+## 3. Static IP Configuration
+I learned to configure IPv4 addressing, netmasks, gateways, and DNS settings in Kali Linux.
+## 4. Snapshots of Virtual Machine
+I learned that a clean snapshot should be taken before performing risky or experimental activities. So that later on, the machine can go back to the well-setup system environment without losing any tool or setup, saving time and saving the effort to setup everything all over again.
+## 5. Default credential thing in Kali Linux:
+* The default Username and password in Kali Linux is "kali" for every user. But even if an attacker knows your username and password are kali / kali, they cannot log in over the network because port 22 (SSH) is closed. To expose terminal to network, user have to manually run commands. Before starting real-world practicing and testing, the credentials should be changed into confidential inputs for safety and security.
+## 6. Documentation:
+* I learned how to document cyber security things. Documenting commands, configuration, screenshots, problems, and solutions are important, resourceful and efficient.
+
+
+
 ## Security & Ethics:
 This lab is created for ethical, secured and safe Cyber Security practices.
 
 The testing which will be performed at this, are all permitted and authorized making sure safe environment.
 
+---
 
-## Mentor
+## 📖Mentor
 Waqas Karim (CCIE)
 Cybersecurity Professional B082
 
+---
 
 ## Progress
 Week 01: Phase 01
