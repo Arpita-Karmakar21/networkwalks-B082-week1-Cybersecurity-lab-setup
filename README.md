@@ -110,6 +110,7 @@ Thus Kali Linux is added to the Virtual Box. Now it can be started using the Gre
 
 <img width="970" height="354" alt="fgdd" src="https://github.com/user-attachments/assets/e5fea181-10cf-4b97-a62d-5ac3378e0fee" />
 
+<img width="628" height="373" alt="Screenshot 2026-08-14 003021" src="https://github.com/user-attachments/assets/3ecb65bf-95b0-4f7f-a39a-c188a5929471" />
 
 
 ---
