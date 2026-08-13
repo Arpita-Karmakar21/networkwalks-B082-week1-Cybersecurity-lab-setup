@@ -145,6 +145,10 @@ https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
 ## Step 6. Take a Clean Snapshot of the Virtual Machine
 After the procedures, a VirtualBox snapshot was created.
 
+Current State ➡️ Right click ➡️ take snapshot ➡️ Name it meaningfully ➡️ Add description elaborating details of the change.
+
+
+
 <img width="2058" height="988" alt="snapshot" src="https://github.com/user-attachments/assets/f0604585-7dd7-47b2-9b5a-0b69bd7f3de6" />
 
 
