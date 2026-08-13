@@ -128,7 +128,13 @@ Open the Machine (kali Linux), the default Username and Password is kali. User i
 
 https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
 
+## Used Commands in terminal:
+ifconfig
+sudo ifconfig eth0 down
+sudo ifconfig eth0 up
+ping google.com
 
+<img width="659" height="523" alt="image" src="https://github.com/user-attachments/assets/95757c4c-e791-427d-8c19-139dd1029a3f" />
 
 
 ---
@@ -141,10 +147,20 @@ After the procedures, a VirtualBox snapshot was created.
 
 ---
 
+## Security & Ethics:
+This lab is created for ethical, secured and safe Cyber Security practices.
+
+The testing which will be performed at this, are all permitted and authorized making sure safe environment.
 
 
+## Mentor
+Waqas Karim (CCIE)
+Cybersecurity Professional B082
 
 
+## Progress
+Week 01: Phase 01
+Completed✅
 
 
 
