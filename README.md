@@ -121,6 +121,12 @@ After adding Kali to The virtualBox, the NAT Network is added to the settings (T
 
 ## Step 5. Configure the Kali Linux Network
 
+Open the Machine (kali Linux), the default Username and Password is kali. User is supposed to change the credentials if needed while working.
+<img width="1600" height="1200" alt="WhatsApp Image 2026-08-14 at 1 42 45 AM" src="https://github.com/user-attachments/assets/3108da56-6893-4c9f-93ad-6ab03ce62b12" />
+
+
+https://github.com/user-attachments/assets/aa2e0070-b64e-48fc-8edd-d77e27e52bcf
+
 
 
 ---
