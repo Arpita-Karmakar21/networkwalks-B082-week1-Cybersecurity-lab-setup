@@ -129,10 +129,10 @@ Open the Machine (kali Linux), the default Username and Password is kali. User i
 https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
 
 ## Used Commands in terminal:
-ifconfig
-sudo ifconfig eth0 down
-sudo ifconfig eth0 up
-ping google.com
+* ifconfig
+* sudo ifconfig eth0 down
+* sudo ifconfig eth0 up
+* ping google.com
 
 <img width="659" height="523" alt="image" src="https://github.com/user-attachments/assets/95757c4c-e791-427d-8c19-139dd1029a3f" />
 
