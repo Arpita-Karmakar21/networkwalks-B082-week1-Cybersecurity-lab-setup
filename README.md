@@ -102,6 +102,8 @@ Next, Kali linux will be added to the VirtualBox.
 
 Thus Kali Linux is added to the Virtual Box. Now it can be started using the Green Start button.
 
+After adding Kali to The virtualBox, the NAT Network is added to the settings (The one created earlier)
+* Settings ➡️ Dialog Box ➡️ Attached to ➡️ NAT Network ➡️ OK
 
 
 <img width="1081" height="635" alt="Screenshot 2026-08-12 182905" src="https://github.com/user-attachments/assets/1af7b424-c072-4485-8e9c-0dee4e79dfef" />
@@ -112,10 +114,14 @@ Thus Kali Linux is added to the Virtual Box. Now it can be started using the Gre
 
 <img width="628" height="373" alt="Screenshot 2026-08-14 003021" src="https://github.com/user-attachments/assets/3ecb65bf-95b0-4f7f-a39a-c188a5929471" />
 
+<img width="1540" height="838" alt="Screenshot 2026-08-12 233154" src="https://github.com/user-attachments/assets/3629d8fa-5cbe-48d9-a5be-de931187fce5" />
+
 
 ---
 
 ## Step 5. Configure the Kali Linux Network
+
+
 
 ---
 
