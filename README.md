@@ -150,6 +150,20 @@ After the procedures, a VirtualBox snapshot was created.
 
 ---
 
+## 🐞Problems Encountered & Solutions
+1. After the ip address setup(IPV4), internet was working fine. But after I shut it down and again turned it on, internet was disconnected.
+
+* sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+
+This command is disabling Duplicate Address Detection for that network interface.
+This command was run in the terminal and internet worked again. It's for 2026 version of Kali linux. Earlier ones do not have this issue.
+
+2. I was not getting the network option in the VirtualBox. Later I found out, the advanced options are only available in "Expert Mode". Basic mode doesn't allow those options.
+
+3. The system will not work properly if the RAM is not allocated properly. Less than 2048 MB will not work and too much allocation crossing the red mark of the bar will overload and cause problem to the host OS.
+
+---
+
 ## 💡 What I Learned
 Through this project I learned how to create and configure a Virtual machine.
 Some of the key point is given here:
@@ -171,7 +185,7 @@ I learned that a clean snapshot should be taken before performing risky or exper
 
 
 
-## Security & Ethics:
+## 🔐Security & Ethics:
 This lab is created for ethical, secured and safe Cyber Security practices.
 
 The testing which will be performed at this, are all permitted and authorized making sure safe environment.
@@ -184,7 +198,7 @@ Cybersecurity Professional B082
 
 ---
 
-## Progress
+## 📈Progress
 Week 01: Phase 01
 Completed✅
 
