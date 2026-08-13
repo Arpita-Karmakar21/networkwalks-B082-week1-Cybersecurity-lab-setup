@@ -125,13 +125,19 @@ Open the Machine (kali Linux), the default Username and Password is kali. User i
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-14 at 1 42 45 AM" src="https://github.com/user-attachments/assets/3108da56-6893-4c9f-93ad-6ab03ce62b12" />
 
 
-https://github.com/user-attachments/assets/aa2e0070-b64e-48fc-8edd-d77e27e52bcf
+
+https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
+
 
 
 
 ---
 
 ## Step 6. Take a Clean Snapshot of the Virtual Machine
+After the procedures, a VirtualBox snapshot was created.
+
+<img width="2058" height="988" alt="snapshot" src="https://github.com/user-attachments/assets/f0604585-7dd7-47b2-9b5a-0b69bd7f3de6" />
+
 
 ---
 
