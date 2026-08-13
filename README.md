@@ -22,7 +22,7 @@ This lab can be used to practice:
 * XSS
 * Networking and so on
 
-## Lab Configuration
+## 🖥️Lab Configuration
 
 |  Component | Configuration |
 | :--- | :--- |
@@ -40,10 +40,9 @@ This lab can be used to practice:
 | DNS Server | 8.8.8.8 |
 | Future VM Range | 10.0.0.3–10.0.0.99 |
 
-
-## 🔗 Tools & Resources
-
 ---
+
+## ⚙️ Tools & Resources
 
 * **7-Zip:** https://7-zip.org/download.html
 * **VirtualBox:** https://virtualbox.org/wiki/Downloads
