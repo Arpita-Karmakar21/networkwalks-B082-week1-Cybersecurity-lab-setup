@@ -75,7 +75,13 @@ Downloaded and Installed 7-Zip to extract the required zip files resulting in ex
 
 ## Step 3. Create the NAT Network
 
-So, now after opening the VirtualBox this interphase is seen. Initially if the Network option is not found inside tool or in side bar, then going in "Expert Mode" will solve it and the advanced options will appear.
+So, now after opening the VirtualBox this interphase is seen. Initially if the Network option is not found inside tool or in side bar, then going in "Expert Mode" will solve it and all the advanced options will appear.
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 223416" src="https://github.com/user-attachments/assets/24cef3ff-300f-43ea-8351-dae1cf54f414" /> 
+
+<img width="1026" height="376" alt="image" src="https://github.com/user-attachments/assets/28b73c82-2fae-4c52-9365-f6c0fa6e389b" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 232041" src="https://github.com/user-attachments/assets/7c101ae8-6a8e-4b1b-9299-95d05adc7403" />
 
 
 
@@ -84,9 +90,20 @@ So, now after opening the VirtualBox this interphase is seen. Initially if the N
 
 ## Step 4. Import Kali Linux
 
+From the Kali linux official website, the software has to be downloaded and installed first.
+
+* Website ➡️ Virtual Machines ➡️ VirtualBox ➡️ Download
+
+A zip file is downloaded. Now 7-zip application is used to extract the files from the zip file into a normal accessible file.
+
+Next, Kali linux will be added to the VirtualBox.
+
+* VirtualBox ➡️ Machine ➡️ Open ➡️ a Dialog box popped ➡️ search the location path of the Kali Linux Folder ➡️ Select the Blue icon Kali Linux VBox file
+
 <img width="1081" height="635" alt="Screenshot 2026-08-12 182905" src="https://github.com/user-attachments/assets/1af7b424-c072-4485-8e9c-0dee4e79dfef" />
 
-<img width="565" height="503" alt="Screenshot 2026-08-12 183116" src="https://github.com/user-attachments/assets/8752dfe9-e1d0-44e2-a736-9cc9eca0d1c6" />
+<img width="1554" height="503" alt="image (1)" src="https://github.com/user-attachments/assets/6acfc825-7570-4c13-9bfa-52e8a475e550" />
+
 
 
 
