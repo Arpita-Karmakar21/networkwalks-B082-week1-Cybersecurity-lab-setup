@@ -100,6 +100,10 @@ Next, Kali linux will be added to the VirtualBox.
 
 * VirtualBox ➡️ Machine ➡️ Open ➡️ a Dialog box popped ➡️ search the location path of the Kali Linux Folder ➡️ Select the Blue icon Kali Linux VBox file
 
+Thus Kali Linux is added to the Virtual Box. Now it can be started using the Green Start button.
+
+
+
 <img width="1081" height="635" alt="Screenshot 2026-08-12 182905" src="https://github.com/user-attachments/assets/1af7b424-c072-4485-8e9c-0dee4e79dfef" />
 
 <img width="1554" height="503" alt="image (1)" src="https://github.com/user-attachments/assets/6acfc825-7570-4c13-9bfa-52e8a475e550" />
