@@ -239,7 +239,8 @@ LinkedIn: www.linkedin.com/in/arpita-karmakar21
 ---
 
 ## 📖Mentor
-Waqas Karim (CCIE)
+### Waqas Karim (CCIE)
+
 Cybersecurity Professional B082
 
 LinkedIn: https://www.linkedin.com/in/waqaskarim/
