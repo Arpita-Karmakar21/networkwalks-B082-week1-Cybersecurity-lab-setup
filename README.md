@@ -192,9 +192,9 @@ Because NAT Network is used, additional machines can be added in this environmen
 ## 🐞Problems Encountered & Solutions
 1. After the ip address setup(IPV4), internet was working fine. But after I shut it down and again turned it on, internet was disconnected.
 
-* sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+           * sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 
-                 This command is disabling Duplicate Address Detection for that network interface.
+This command is disabling Duplicate Address Detection for that network interface.
 This command was run in the terminal and internet worked again. It's for 2026 version of Kali linux. Earlier ones do not have this issue.
 
 2. I was not getting the network option in the VirtualBox. Later I found out, the advanced options are only available in "Expert Mode". Basic mode doesn't allow those options.
