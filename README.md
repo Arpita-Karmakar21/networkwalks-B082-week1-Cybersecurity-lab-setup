@@ -1,9 +1,25 @@
 <div align="center">
-  
-# Cybersecurity Lab Environment Setup
-## networkwalks-B082-week1-Cybersecurity-lab-setup
-Cyber Security Lab Setup
+
+# 🔐 Cybersecurity Lab Environment Setup
+
+### Building an isolated virtual lab for penetration testing and ethical hacking practice
+
+<!-- Badges Section -->
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-2b5c8f?style=for-the-badge)
+![Ver](https://img.shields.io/badge/Ver-Virtualbox_v7.2-0066b2?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-v2026.2-1b7a43?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-Linux-6b3ba7?style=for-the-badge)
+<br>
+![Network](https://img.shields.io/badge/Network-10.0.0.0/24-2b5c8f?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-6b3ba7?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-Virtualization-1b7a43?style=for-the-badge)
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-0066b2?style=for-the-badge&logo=github&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-1b7a43?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-Arpita_Karmakar-6b3ba7?style=for-the-badge)
+
 </div>
+
 
 ---
 
