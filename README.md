@@ -175,11 +175,20 @@ After the procedures, a VirtualBox snapshot was created.
 
 Current State ➡️ Right click ➡️ take snapshot ➡️ Name it meaningfully ➡️ Add description elaborating details of the change.
 
+Thus a clean VM Snapshot is taken.
 
 <img width="2058" height="988" alt="snapshot" src="https://github.com/user-attachments/assets/f0604585-7dd7-47b2-9b5a-0b69bd7f3de6" />
 
 
 ---
+
+## 🔎 Lab Verification
+
+<img width="1046" height="445" alt="image" src="https://github.com/user-attachments/assets/d9cbb53b-dbe4-42b5-b01a-999742a9e56b" />
+
+
+---
+
 
 ## 🏗️ Lab Architecture
 
