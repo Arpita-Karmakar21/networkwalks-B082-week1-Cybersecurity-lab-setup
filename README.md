@@ -183,14 +183,10 @@ Current State ➡️ Right click ➡️ take snapshot ➡️ Name it meaningfull
 
 ## 🏗️ Lab Architecture
 
-## 🏗️ Lab Architecture
+Host OS ➡️ VirtualBox ➡️ NAT Network ➡️ VM (Kali Linux) ➡️ Configuration and connection  ➡️ Lab ready
 
-```mermaid
-graph LR
-    A[Host Machine] --> B[Oracle VirtualBox]
-    B --> C[NAT Network<br>10.0.0.0/24]
-    C --> D[Kali Linux VM<br>10.0.0.2/24]
-    D --> E[Cybersecurity Labs]
+Because NAT Network is used, additional machines can be added in this environment making it a virtual network in future experiments.
+
 ---
 
 ## 🐞Problems Encountered & Solutions
