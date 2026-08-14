@@ -2,7 +2,7 @@
 
 # 🔐 Cybersecurity Lab Environment Setup
 
-### Building an isolated virtual lab for penetration testing and ethical hacking practice
+### Building an isolated virtual lab for Cyber Security Testing, learning and practice
 
 <!-- Badges Section -->
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-2b5c8f?style=for-the-badge)
