@@ -64,7 +64,8 @@ This can be used for:
 * Reconnaissance
 * Experiments
 
-Note: This lab should be used to experiment on authorized & permitted practices.
+### Note: This lab should be used to experiment on authorized & permitted practices.
+
 ---
 
 
@@ -251,20 +252,20 @@ This command was run in the terminal and internet worked again. It's for 2026 ve
 ## 💡 What I Learned
 Through this project I learned how to create and configure a Virtual machine.
 Some of the key point is given here:
-## 1. NAT VS NAT Network:
+### 1. NAT VS NAT Network:
 * Provides internet access to each virtual machine individually, but isolates the VMs so they   cannot communicate with each other.
 * Creates a shared virtual network where all connected VMs can access the internet and communicate with each other directly
 * NAT Network is preferred for penetration testing, as it allows your Attacker VM (like Kali) to easily reach and target other VMs within the same isolated environment.
 
-## 2. How to use commands in Terminal and Ping:
+### 2. How to use commands in Terminal and Ping:
 * The commands ifconfig, sudo, eth0 down, up, and ping, these commands are used to check whether the system is working well, networking and testing if the host is reachable across a network.
-## 3. Static IP Configuration
+### 3. Static IP Configuration
 I learned to configure IPv4 addressing, netmasks, gateways, and DNS settings in Kali Linux.
-## 4. Snapshots of Virtual Machine
+### 4. Snapshots of Virtual Machine
 I learned that a clean snapshot should be taken before performing risky or experimental activities. So that later on, the machine can go back to the well-setup system environment without losing any tool or setup, saving time and saving the effort to setup everything all over again.
-## 5. Default credential thing in Kali Linux:
+### 5. Default credential thing in Kali Linux:
 * The default Username and password in Kali Linux is "kali" for every user. But even if an attacker knows your username and password are kali / kali, they cannot log in over the network because port 22 (SSH) is closed. To expose terminal to network, user have to manually run commands. Before starting real-world practicing and testing, the credentials should be changed into confidential inputs for safety and security.
-## 6. Documentation:
+### 6. Documentation:
 * I learned how to document cyber security things. Documenting commands, configuration, screenshots, problems, and solutions are important, resourceful and efficient.
 
 
