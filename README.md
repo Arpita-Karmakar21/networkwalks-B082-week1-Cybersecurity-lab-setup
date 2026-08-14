@@ -249,8 +249,11 @@ LinkedIn: https://www.linkedin.com/in/waqaskarim/
 
 ## 📈Project Information
 Project: Cybersecurity & Pentesting Lab Setup
+
 Repository: GitHub
+
 Week: 01
+
 Progress: Completed✅
 
 
