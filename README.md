@@ -82,7 +82,7 @@ Note: This lab should be used to experiment on authorized & permitted practices.
 
 # 🪜Procedures:
 ## Step 1. Download & Install 7-Zip
-Downloaded and Installed 7-Zip to extract the required zip files resulting in executable normal files.
+🏷️ Downloaded and Installed 7-Zip to extract the required zip files resulting in executable normal files.
 
 <img width="1204" height="412" alt="image" src="https://github.com/user-attachments/assets/85f39a3c-e383-4a28-9c33-91fb02fbab66" />
 
@@ -91,6 +91,10 @@ Downloaded and Installed 7-Zip to extract the required zip files resulting in ex
   
 
 ## Step 2. Download & Install VirtualBox
+
+🏷️ Procedure:
+Oracle VirtualBox official Website ➡️ Downloads ➡️ Windows Host ➡️ install the .exe file ➡️ Open the installed VirtualBox
+
 
 <img width="817" height="438" alt="Screenshot 2026-08-12 182425" src="https://github.com/user-attachments/assets/46868a7b-044d-4e20-a79a-3ffe573e1301" />
 
@@ -104,7 +108,13 @@ Downloaded and Installed 7-Zip to extract the required zip files resulting in ex
 
 ## Step 3. Create the NAT Network
 
-So, now after opening the VirtualBox this interphase is seen. Initially if the Network option is not found inside tool or in side bar, then going in "Expert Mode" will solve it and all the advanced options will appear.
+🏷️So, now after opening the VirtualBox, this interface is seen.
+
+Initially if the Network option is not found inside tool or in side bar, then going in "Expert Mode" will solve it and all the advanced options will appear.
+
+Now the NAT Network is created.
+
+Expert Mode ➡️ Network ➡️ NAT Network ➡️ Create button at top left ➡️ Set IPV4 prefix as 10.0.0.0/24 ➡️ Apply
 
 <img width="1920" height="1080" alt="Screenshot 2026-08-12 223416" src="https://github.com/user-attachments/assets/24cef3ff-300f-43ea-8351-dae1cf54f414" /> 
 
@@ -119,19 +129,20 @@ So, now after opening the VirtualBox this interphase is seen. Initially if the N
 
 ## Step 4. Import Kali Linux
 
-From the Kali linux official website, the software has to be downloaded and installed first.
+🏷️ From the Kali linux official website, the software has to be downloaded and installed first.
 
-* Website ➡️ Virtual Machines ➡️ VirtualBox ➡️ Download
+* Website ➡️ Download / Get Kali ➡️ Virtual Machines ➡️ VirtualBox ➡️ Download
 
 A zip file is downloaded. Now 7-zip application is used to extract the files from the zip file into a normal accessible file.
 
-Next, Kali linux will be added to the VirtualBox.
+
+🏷️ Next, Kali linux will be added to the VirtualBox.
 
 * VirtualBox ➡️ Machine ➡️ Open ➡️ a Dialog box popped ➡️ search the location path of the Kali Linux Folder ➡️ Select the Blue icon Kali Linux VBox file
 
 Thus Kali Linux is added to the Virtual Box. Now it can be started using the Green Start button.
 
-After adding Kali to The virtualBox, the NAT Network is added to the settings (The one created earlier)
+🏷️ After adding Kali to The virtualBox, the NAT Network is added to the settings (The one created earlier)
 * Settings ➡️ Dialog Box ➡️ Attached to ➡️ NAT Network ➡️ OK
 
 
@@ -150,7 +161,12 @@ After adding Kali to The virtualBox, the NAT Network is added to the settings (T
 
 ## Step 5. Configure the Kali Linux Network
 
-Open the Machine (kali Linux), the default Username and Password is kali. User is supposed to change the credentials if needed while working.
+🏷️ Open the Machine (kali Linux), the default Username and Password is kali. User is supposed to change the credentials if needed while working.
+
+🏷️ Procedure:
+Top right Network Panel symbol ➡️ Right Click ➡️ Edit connections ➡️ Wired connection ➡️ IPV4 settings ➡️ Method: Manual ➡️ Add Address ➡️ Address: 10.0.0.2 ➡️ Netmask: 24 ➡️ Gateway: 10.0.0.1 ➡️ DNS Server: 8.8.8.8 ➡️ Save
+
+
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-14 at 1 42 45 AM" src="https://github.com/user-attachments/assets/3108da56-6893-4c9f-93ad-6ab03ce62b12" />
 
 
@@ -160,6 +176,7 @@ https://github.com/user-attachments/assets/eabeb261-f7c2-431b-a044-3323f31733e6
 ---
 
 ## Used Commands in terminal:
+
 * ifconfig
 * sudo ifconfig eth0 down
 * sudo ifconfig eth0 up
@@ -183,6 +200,9 @@ Thus a clean VM Snapshot is taken.
 ---
 
 ## 🔎 Lab Verification
+
+The Lab Verification is done by running commands in the terminal.
+
 
 <img width="1046" height="445" alt="image" src="https://github.com/user-attachments/assets/d9cbb53b-dbe4-42b5-b01a-999742a9e56b" />
 
