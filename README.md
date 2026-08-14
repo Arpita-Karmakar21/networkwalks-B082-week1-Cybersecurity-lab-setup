@@ -231,15 +231,26 @@ The testing which will be performed at this, are all permitted and authorized ma
 
 ---
 
+## 👤 Author
+### Arpita Karmakar
+
+LinkedIn: www.linkedin.com/in/arpita-karmakar21
+
+---
+
 ## 📖Mentor
 Waqas Karim (CCIE)
 Cybersecurity Professional B082
 
+LinkedIn: https://www.linkedin.com/in/waqaskarim/
+
 ---
 
-## 📈Progress
-Week 01: Phase 01
-Completed✅
+## 📈Project Information
+Project: Cybersecurity & Pentesting Lab Setup
+Repository: GitHub
+Week: 01
+Progress: Completed✅
 
 
 
