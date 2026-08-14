@@ -24,6 +24,34 @@ This lab can be used to practice:
 
 ---
 
+## 🎯 Objectives
+
+The main objectives of the project are to:
+* Install and setup VirtualBox.
+* Import Kali Linux as virtual machine.
+* Create a private NAT Network, check connectivity.
+* Assign and verify Network, IP address, DNS.
+* Take a clean Snapshot of VM for future recovery.
+* Document the full setup process.
+
+---
+
+## 🛡️ Purpose of the Lab
+
+This lab is capable of providing controlled isolated environment for Cyber Security practice and learning.
+This can be used for:
+* Web security testing
+* Penetration testing
+* Exploitation practice
+* Vulnerability assessment
+* Port scanning
+* Reconnaissance
+* Experiments
+
+Note: This lab should be used to experiment on authorized & permitted practices.
+---
+
+
 ## 🖥️Lab Configuration
 
 |  Component | Configuration |
@@ -151,6 +179,18 @@ Current State ➡️ Right click ➡️ take snapshot ➡️ Name it meaningfull
 <img width="2058" height="988" alt="snapshot" src="https://github.com/user-attachments/assets/f0604585-7dd7-47b2-9b5a-0b69bd7f3de6" />
 
 
+---
+
+## 🏗️ Lab Architecture
+
+## 🏗️ Lab Architecture
+
+```mermaid
+graph LR
+    A[Host Machine] --> B[Oracle VirtualBox]
+    B --> C[NAT Network<br>10.0.0.0/24]
+    C --> D[Kali Linux VM<br>10.0.0.2/24]
+    D --> E[Cybersecurity Labs]
 ---
 
 ## 🐞Problems Encountered & Solutions
